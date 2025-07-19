@@ -16,8 +16,11 @@ This is a simple **Age Calculator** web application built with **HTML**, **CSS**
 ## 📂 **Project Structure**
 
 📂 Age-Calculator
+
 ┣ 📜 index.html
+
 ┣ 📜 style.css
+
 ┣ 📜 script.js
 
 ## 🚀 How It Works
